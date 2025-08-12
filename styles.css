@@ -5,9 +5,9 @@
     background-color: #F5BABB;
     color: #568F87;
     border-radius: 4px;
-            border: 1px solid #568F87;
+    border: 1px solid #568F87;
 }
-.lista a {
+.lista li a {
     font-family: "Courier New", Courier, monospace;
     color: #568F87;
     font-weight: bold
@@ -55,4 +55,8 @@ body {
     border-radius: 5px;
     border: 1px solid #568F87;
 
+}
+img {
+    border-radius: 10px;
+    margin: 8px;
 }
