@@ -1,15 +1,17 @@
 .lista li {
     display: inline;
     padding: 7px;
-    margin: auto;
+    margin: 8px;
     background-color: #F5BABB;
     color: #568F87;
     border-radius: 4px;
+            border: 1px solid #568F87;
 }
-a {
+.lista a {
     font-family: "Courier New", Courier, monospace;
     color: #568F87;
     font-weight: bold
+
 }
 body {
     background-color: #FFF5F2;
@@ -18,4 +20,39 @@ body {
     text-align: center;
     font-family: "Courier New", Courier, monospace;
     color: #064232;
+        text-decoration: wavy underline;
+        
+    
+}
+.lista {
+    text-align: center;
+    margin: auto;
+    padding: 0;
+    
+}
+
+.header2 {
+    text-align: left;
+    font-family: "Courier New", Courier, monospace;
+    color: #568F87;
+    background-color: #F5BABB;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px 8px;
+    border-radius: 4px;
+        border: 1px solid #568F87;
+    
+    
+}
+.back {
+    display: inline-block;
+    padding: 4px;
+    margin: 10px auto;
+    font-size: 15px;
+    background-color: #F5BABB;
+    color: #064232;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid #568F87;
+
 }
