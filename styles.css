@@ -1,0 +1,21 @@
+.lista li {
+    display: inline;
+    padding: 7px;
+    margin: auto;
+    background-color: #F5BABB;
+    color: #568F87;
+    border-radius: 4px;
+}
+a {
+    font-family: "Courier New", Courier, monospace;
+    color: #568F87;
+    font-weight: bold
+}
+body {
+    background-color: #FFF5F2;
+}
+.header {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    color: #064232;
+}
